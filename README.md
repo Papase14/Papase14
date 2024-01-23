@@ -31,6 +31,6 @@ Currently I'm developing [Program-World](https://program-world.co.za "Program-Wo
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papase14)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Papase14&theme=one-dark-pro&mode=weekly)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=papase14"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=papase14&theme=github"/>
