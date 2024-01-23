@@ -30,8 +30,9 @@ Currently I'm developing [Program-World](https://program-world.co.za "Program-Wo
 
 ### Contact Me: <br>
 **E-mail** tshupane@outlook.com<br>
-**Phone** +27 (79) 085 9150
+**Phone** +27 (79) 085 9150<br>
 **Portfolio** [Patworld](https://www.patworld.co.za "patworld.co.za")
+
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papase14)](https://git.io/streak-stats)
