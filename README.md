@@ -19,7 +19,7 @@ Currently I'm developing [Program-World](https://program-world.co.za "Program-Wo
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/bdd1c63a-98bd-45fa-b82e-0f8c44485066" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://github.com/Papase14/patworld-portfolio/blob/main/patworld_portfolio/src/assets/skills/tailwind.png" height="40" style="vertical-align:top; margin:4px">
 </p>
                                                                                                                                                     
 ---
