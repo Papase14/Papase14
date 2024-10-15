@@ -1,5 +1,5 @@
 # Tshupane Patrick Morake
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer!;UI/UX+Designer!;Full-Stack+Web+Developer!;)](https://git.io/typing-svg)
 I'm interested in Software Engineering, Web development and DevOps<br>
 
 Currently I'm developing [Program-World](https://program-world.co.za "Program-World"): a website for my software development company<br>
